@@ -4,6 +4,13 @@
 
 ##To use my project you can do this 
 
+Get ssh key for cloud shell
+```ssh-keygen -t rsa```
+copy public key
+cat "copied public key"
+
+git clone **insert code here**
+ 
 Create a virtualenv
 ``` python3 -m venv ~/.github=actions-demo```
 ### for google cloud virtualenv ~/.github-actions-demo
