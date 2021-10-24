@@ -17,3 +17,8 @@ Create a virtualenv
 
 Source it
 ```source ~/.github-actions-demo/bin/activate```
+
+Git instructions
+```git add *```
+```git commit -m "message here"```
+```git push```
